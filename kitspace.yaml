@@ -1,8 +1,8 @@
-bom: hw/sch_pcb/MODUL01.kicad_pcb
+bom: hw/sch_pcb/HV_SPX01.kicad_pcb
 color: white
 eda:
-  pcb: hw/sch_pcb/MODUL01.kicad_pcb
+  pcb: hw/sch_pcb/HV_SPX01.kicad_pcb
   type: kicad
 gerbers: hw/cam_profi/
-site: https://github.com/mlab-modules/MODUL01
-summary: Template repository
+site: https://github.com/ODZ-UJF-AV-CR/HV_SPX01
+summary: High voltage module compatible with SPX3_01 module.
