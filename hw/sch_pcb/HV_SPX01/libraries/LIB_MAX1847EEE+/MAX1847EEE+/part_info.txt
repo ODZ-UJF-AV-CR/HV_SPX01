@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX1847EEE+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2021-02-01 04:51:31
+Downloaded=2023-09-20 06:52:26
+3D=Y

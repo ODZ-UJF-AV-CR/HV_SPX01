@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2337DS-T1-BE3
+D MOSFET P-CHANNEL 80-V (D-S)
+K
+F https://www.vishay.com/docs/73533/si2337ds.pdf
+$ENDCMP
+#
+#End Doc Library

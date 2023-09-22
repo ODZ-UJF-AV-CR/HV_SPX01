@@ -1,0 +1,16 @@
+.SI2337DS-T1-BE3 :1 ;MOSFET P-CHANNEL 80-V (D-S)
+SOT95P237X112-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN SI2337DS-T1-BE3
+~!Mouser Part Number (78-SI2337DS-T1-BE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/SI2337DS-T1-BE3?qs=CiayqK2gdcKwfz5JxPKQMQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SI2337DS-T1-BE3)
+~!Link Datasheet (https://www.vishay.com/docs/73533/si2337ds.pdf)
+~!Height (1.12mm)
+~!3D_Model (SI2337DS-T1-BE3)
+SI2337DS-T1-BE3
+1.1!U 2.1!U 3.1!U 

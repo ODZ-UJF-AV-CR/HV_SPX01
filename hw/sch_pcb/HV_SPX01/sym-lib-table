@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX1847EEE+")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_MAX1847EEE+/MAX1847EEE+/KiCad/MAX1847EEE+.kicad_sym")(options "")(descr ""))
+  (lib (name "SI2337DS-T1-BE3")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_SI2337DS-T1-BE3/SI2337DS-T1-BE3/KiCad/SI2337DS-T1-BE3.kicad_sym")(options "")(descr ""))
+)

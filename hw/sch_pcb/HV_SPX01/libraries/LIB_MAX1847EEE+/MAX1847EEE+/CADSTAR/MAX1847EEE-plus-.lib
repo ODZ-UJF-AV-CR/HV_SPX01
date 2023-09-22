@@ -1,0 +1,16 @@
+.MAX1847EEE-plus- :1 ;Switching Controllers High-Efficiency, Current-Mode, Inverting PWM Controller
+SOP64P602X175-16N
+*STM IC
+*NGS
+*PLB 1="POL" 2="VL" 3="FREQ" 4="COMP" 5="REF" 6="FB" 7="N.C._1" 8="'SHDN'" 9="N.C._2" 10="GND_1" 11="GND_2" 12="PGND" 13="CS" 14="EXT" 15="IN" 16="SYNC"
+*MXP 16
+*DFN MAX1847EEE-plus-
+~!Mouser Part Number (700-MAX1847EEE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX1847EEE%2b/?qs=1THa7WoU59Eml5yzvNyVvA%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX1847EEE+)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/dk/DKDS-7/136317.pdf)
+~!Height (1.75mm)
+~!3D_Model (MAX1847EEE+)
+MAX1847EEE-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

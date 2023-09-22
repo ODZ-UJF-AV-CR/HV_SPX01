@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX1847EEE+
+D Switching Controllers High-Efficiency, Current-Mode, Inverting PWM Controller
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-7/136317.pdf
+$ENDCMP
+#
+#End Doc Library

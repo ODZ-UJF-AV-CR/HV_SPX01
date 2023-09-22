@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SI2337DS_T1_BE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SI2337DS-T1-BE3" (!) = "", "SOT95P237X112-3N", "SOT23 (3-Pin)", "78-SI2337DS-T1-BE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/SI2337DS-T1-BE3?qs=CiayqK2gdcKwfz5JxPKQMQ%3D%3D", "MOSFET P-CHANNEL 80-V (D-S)", "https://www.vishay.com/docs/73533/si2337ds.pdf", "1.12 mm"
+END_PART
+
+END.
